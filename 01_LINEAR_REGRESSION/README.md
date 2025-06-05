@@ -5,7 +5,7 @@
 This notebook explains the concept of Linear Regression in depth with theory, visualizations, and sklearn demo.
 
 ## ✅ Topics Covered:
-- Concept Summary in Hinglish
+- Concept Summary 
 - Equation: y = mx + c
 - Line of Best Fit & Visualization
 - Cost Function (MSE)
